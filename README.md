@@ -117,7 +117,7 @@ Failure to remove inappropriate access increases the risk of:
 
 ## 📸 Dashboard Preview
 
-<img width="500" alt="img" src="https://github.com/user-attachments/assets/58639577-ee30-4932-8cf0-2518808912da" />  
+<img width="400" alt="img" src="https://github.com/user-attachments/assets/58639577-ee30-4932-8cf0-2518808912da" />  
 
 <img width="400" alt="img" src="https://github.com/user-attachments/assets/8892a118-121b-4aef-aea2-927f44af58f6" /> 
 
