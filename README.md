@@ -148,6 +148,13 @@ Failure to remove inappropriate access increases the risk of:
 The analysis identified significant control gaps in user access management, particularly around inactive and terminated accounts. Strengthening access governance processes is critical to reducing unauthorized access risk and ensuring compliance with internal control standards
 
 ---
-
 ## ⚠️ Disclaimer
 This project uses publicly available / sample data for demonstration purposes only. No real or sensitive data is included.
+
+---
+👩‍💻 About the Auditor
+Hi, I'm Farida Yamah — transitioning from Data Analytics to IT Audit & GRC. I specialize in transforming real system risks into evidence-driven control reviews that align with SOX and internal compliance frameworks.
+
+🔗 Connect with me on LinkedIn
+
+
