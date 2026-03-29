@@ -1,7 +1,7 @@
 # IT Audit User Access Review Dashboard
 
 ## 📌 Project Overview
-This project simulates an IT Audit review of user access controls using Power BI. The objective was to identify access control weaknesses, assess risk levels, and provide actionable remediation recommendations.
+This project demonstrates an IT Audit review of user access controls, identifying control weaknesses, assessing risk exposure, and recommending remediation actions.
 
 The dashboard focuses on key access control issues such as dormant accounts, unused accounts, and delayed access removal for terminated employees.
 
