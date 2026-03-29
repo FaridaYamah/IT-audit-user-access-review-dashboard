@@ -75,7 +75,16 @@ This approach ensures consistent prioritization of access control issues.
 - Dormant accounts represented the highest volume of access control issues 
 - Termination-related access posed the highest risk due to potential unauthorized activity 
 - High-risk access violations were heavily concentrated within the ERP system 
-- Standard user accounts accounted for the majority of high-risk exposure 
+- Standard user accounts accounted for the majority of high-risk exposure
+  
+
+---
+## Business Impact
+
+Failure to remove inappropriate access increases the risk of:
+- Unauthorized transactions
+- Data breaches
+- Financial misstatement
 
 ---
 
