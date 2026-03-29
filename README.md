@@ -31,6 +31,16 @@ To evaluate whether user access is:
 
 ---
 
+## 🔐 Controls Evaluated
+
+- User Access Provisioning
+- User Access Deprovisioning (Termination Controls)
+- Periodic Access Reviews
+- Inactive Account Management
+- Privileged Access Monitoring
+
+---
+
 ## 📊 Risk Scoring Methodology
 Risk scores were calculated using a standardized approach:
 
@@ -71,14 +81,22 @@ This approach ensures consistent prioritization of access control issues.
 
 ---
 
-## 🚨 Key Findings
+## 🚨 Key Audit Findings
 - Dormant accounts represented the highest volume of access control issues 
 - Termination-related access posed the highest risk due to potential unauthorized activity 
 - High-risk access violations were heavily concentrated within the ERP system 
 - Standard user accounts accounted for the majority of high-risk exposure
   
+---
+
+## ⚠️ Risk Implications
+
+- Increased risk of unauthorized transactions
+- Potential financial misstatement
+- Weak enforcement of access governance controls
 
 ---
+
 ## Business Impact
 
 Failure to remove inappropriate access increases the risk of:
@@ -99,13 +117,13 @@ Failure to remove inappropriate access increases the risk of:
 
 ## 📸 Dashboard Preview
 
-<img width="800" alt="img" src="https://github.com/user-attachments/assets/58639577-ee30-4932-8cf0-2518808912da" />  
+<img width="900" alt="img" src="https://github.com/user-attachments/assets/58639577-ee30-4932-8cf0-2518808912da" />  
 
-<img width="800" alt="img" src="https://github.com/user-attachments/assets/8892a118-121b-4aef-aea2-927f44af58f6" /> 
+<img width="900" alt="img" src="https://github.com/user-attachments/assets/8892a118-121b-4aef-aea2-927f44af58f6" /> 
 
-<img width="800" alt="img" src="https://github.com/user-attachments/assets/f0b99695-f702-48e2-a3cc-0c0dc6fc10e7" />
+<img width="900" alt="img" src="https://github.com/user-attachments/assets/f0b99695-f702-48e2-a3cc-0c0dc6fc10e7" />
 
-<img width="800" alt="img" src="https://github.com/user-attachments/assets/5a299835-9d6d-455f-ab22-13df0adadb1d" />
+<img width="900" alt="img" src="https://github.com/user-attachments/assets/5a299835-9d6d-455f-ab22-13df0adadb1d" />
 
 
 ---
