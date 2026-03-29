@@ -90,7 +90,14 @@ This approach ensures consistent prioritization of access control issues.
 
 ## 📸 Dashboard Preview
 
-(Insert screenshots here)
+<img width="800" alt="img" src="https://github.com/user-attachments/assets/58639577-ee30-4932-8cf0-2518808912da" />  
+
+<img width="800" alt="img" src="https://github.com/user-attachments/assets/8892a118-121b-4aef-aea2-927f44af58f6" /> 
+
+<img width="800" alt="img" src="https://github.com/user-attachments/assets/f0b99695-f702-48e2-a3cc-0c0dc6fc10e7" />
+
+<img width="800" alt="img" src="https://github.com/user-attachments/assets/5a299835-9d6d-455f-ab22-13df0adadb1d" />
+
 
 ---
 
