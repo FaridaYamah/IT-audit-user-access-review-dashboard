@@ -1,5 +1,14 @@
 # IT Audit User Access Review Dashboard
 
+
+👩‍💻 About the Auditor
+Hi, I'm Farida Yamah — transitioning from Data Analytics to IT Audit & GRC. I specialize in transforming real system risks into evidence-driven control reviews that align with SOX and internal compliance frameworks.
+
+🔗 Connect with me on     www.linkedin.com/in/
+farida-yamah-97a29123b
+
+     
+
 ## 📌 Project Overview
 This project demonstrates an IT Audit review of user access controls, identifying control weaknesses, assessing risk exposure, and recommending remediation actions.
 
